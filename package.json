@@ -1,0 +1,16 @@
+{
+  "name": "telegram-bot",
+  "version": "1.0.0",
+  "description": "website telegram bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "hello",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
